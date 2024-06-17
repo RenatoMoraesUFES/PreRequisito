@@ -8,4 +8,4 @@ A Resolução [nº 39/2010 - CEPE](http://www.daocs.ufes.br/sites/daocs.ufes.br/
 
 O Colegiado do Curso de Engenharia de Produção Noturno do CT tem por norma conceder quebra de pré-requisitos somente à alunos finalistas. Lembrando que definição de finalista consta na [Resolução 58/2008 - CEPE](https://aluno.ufes.br/Documentos/resolucao_058_2008.pdf) da seguinte forma:
 
-O aluno será considerado finalista quando a diferença existente entre a carga horária mínima exigida para graduação no seu curso/habilitação e a carga horária por ele cursada for igual ou inferior à carga horária máxima de matrícula permitida por semestre letivo no seu respectivo curso.  
+> O aluno será considerado finalista quando a diferença existente entre a carga horária mínima exigida para graduação no seu curso/habilitação e a carga horária por ele cursada for igual ou inferior à carga horária máxima de matrícula permitida por semestre letivo no seu respectivo curso.  
