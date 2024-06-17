@@ -8,4 +8,8 @@ A Resolução [nº 39/2010 - CEPE](http://www.daocs.ufes.br/sites/daocs.ufes.br/
 
 O Colegiado do Curso de Engenharia de Produção Noturno do CT tem por norma conceder quebra de pré-requisitos somente à alunos finalistas. Lembrando que definição de finalista consta na [Resolução 58/2008 - CEPE](https://aluno.ufes.br/Documentos/resolucao_058_2008.pdf) da seguinte forma:
 
-> O aluno será considerado finalista quando a diferença existente entre a carga horária mínima exigida para graduação no seu curso/habilitação e a carga horária por ele cursada for igual ou inferior à carga horária máxima de matrícula permitida por semestre letivo no seu respectivo curso.  
+> O aluno será considerado finalista quando a diferença existente entre a carga horária mínima exigida para graduação no seu curso/habilitação e a carga horária por ele cursada for igual ou inferior à carga horária máxima de matrícula permitida por semestre letivo no seu respectivo curso.
+
+## Como solicitar a Quebra de Pré-Requisito
+
+O aluno deve comparecer à secretaria do Colegiado do Curso de Engenharia de Produção Noturno, apresentando documento oficial de identificação e munido do formulário próprio de solicitação (disponível em Formulários(link is external) - Nº 5). Há um prazo para fazer a solicitação que está previsto no calendário acadêmico vigente. O secretaria protocola o pedido e encaminha para análise do Colegiado. Após isso, o Colegiado devolve os pedidos deferidos ou indeferidos em prazo que deve ser cumprido para efetivação da possível matrícula. Toda a tramitação pode ser acompanhada pelo aluno no [Lepisma](https://protocolo.ufes.br/#/busca).
