@@ -12,14 +12,17 @@ O Colegiado do Curso de Engenharia de Produção Noturno do CT tem por norma con
 
 ## Como solicitar a Quebra de Pré-Requisito
 
-O aluno deve comparecer à secretaria do Colegiado do Curso de Engenharia de Produção Noturno, apresentando documento oficial de identificação e munido do formulário próprio de solicitação (disponível em Formulários(link is external) - Nº 5). Há um prazo para fazer a solicitação que está previsto no calendário acadêmico vigente. A secretaria então protocolará o pedido e encaminhará para análise do Colegiado. Após isso, o Colegiado devolve os pedidos deferidos ou indeferidos em prazo que deve ser cumprido para efetivação da possível matrícula. Toda a tramitação pode ser acompanhada pelo aluno no [Lepisma](https://protocolo.ufes.br/#/busca).
+O aluno deve comparecer à secretaria do Colegiado do Curso de Engenharia de Produção Noturno, apresentando documento oficial de identificação e munido do formulário próprio de solicitação (disponível em Formulários(link is external) - Nº 5), acompanhado do histórico e comprovante de matrícula. Há um prazo para fazer a solicitação que está previsto no calendário acadêmico vigente. A secretaria então protocolará o pedido e encaminhará para análise do Colegiado. Após isso, o Colegiado devolve os pedidos deferidos ou indeferidos em prazo que deve ser cumprido para efetivação da possível matrícula. Toda a tramitação pode ser acompanhada pelo aluno no [Lepisma](https://protocolo.ufes.br/#/busca).
+
+## Critérios para a Quebra de Pré-Requisito
+
 
 A) O aluno deve observar o disposto na resolução 39/2010-CEPE;
 C) O aluno deverá apresentar coeficiente acumulado de rendimento mínimo de cinco vírgula zero (5,0);
 D) A disciplina alvo da quebra de pré-requisito deverá ser cursada no mesmo semestre que o respectivo pré-requisito.
 
 
-O requerimento de quebra de pré-requisito, devidamente justificado, deve ser apresentado
+<!-- O requerimento de quebra de pré-requisito, devidamente justificado, deve ser apresentado
 pelo interessado junto à Coordenação de Curso, acompanhado do histórico e comprovante
 de matrícula, até a data prevista no calendário acadêmico desta Universidade para a solicita-
-ção do ajuste de matrícula;
+ção do ajuste de matrícula; -->
