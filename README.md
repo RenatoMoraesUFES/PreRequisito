@@ -25,8 +25,8 @@ A secretaria então protocolará o pedido e encaminhará para análise do Colegi
 - O aluno deve observar o disposto na resolução 39/2010-CEPE;
 - O aluno deverá apresentar coeficiente acumulado de rendimento mínimo maior ou igual a sete vírgula zero (7,0);
 - É necessário que o(a) aluno(a) já tenha cursado o pré-requisito e que:
-      * não tenha sido reprovado por frequência
-      * Tenha obtido média maior ou igual a quatro vírgula zero (4,0)
+  - não tenha sido reprovado por frequência
+  - Tenha obtido média maior ou igual a quatro vírgula zero (4,0)
 
 
 <!-- Excetuam-se do disposto nesses critérios de quebra de pré-requisitos os casos especiais de afastamento por amparo legal; estudantes em programas de acompanhamento ou plano de estudos; o poder da lei, ou seja, o caráter de norma
