@@ -18,11 +18,18 @@ A secretaria então protocolará o pedido e encaminhará para análise do Colegi
 
 ## Critérios para a Quebra de Pré-Requisito
 
+### Os pedidos de quebra de pré-requisitos deverão ser sumariamente atendidos pelos Colegiados quando as solicitações forem provenientes de falhas na organização curricular e/ou oferta de disciplinas dos diferentes cursos, conforme prevê o [Artigo
+1º da resolução 39/2010](http://www.daocs.ufes.br/sites/daocs.ufes.br/files/field/anexo/resolucao_no_39.2010.pdf).
 
-A) O aluno deve observar o disposto na resolução 39/2010-CEPE;
-C) O aluno deverá apresentar coeficiente acumulado de rendimento mínimo de cinco vírgula zero (5,0);
-D) A disciplina alvo da quebra de pré-requisito deverá ser cursada no mesmo semestre que o respectivo pré-requisito.
+### Em casos que não sejam por motivos de responsabilidade da instituição (conforme Art. 1º - Resolução 39/2010), o Colegiado do Curso de Engenharia de Produção Noturno adotará os seguintes critérios:
 
+- O aluno deve observar o disposto na resolução 39/2010-CEPE;
+- O aluno deverá apresentar coeficiente acumulado de rendimento mínimo de sete vírgula zero (7,0);
+- A disciplina alvo da quebra de pré-requisito deverá ser cursada no mesmo semestre que o respectivo pré-requisito.
+
+
+<!-- Excetuam-se do disposto nesses critérios de quebra de pré-requisitos os casos especiais de afastamento por amparo legal; estudantes em programas de acompanhamento ou plano de estudos; o poder da lei, ou seja, o caráter de norma
+obrigatória a que todos estão sujeitos, e casos de força maior, sendo que o Colegiado de Curso analisará cada situação que se apresente. -->
 
 <!-- O requerimento de quebra de pré-requisito, devidamente justificado, deve ser apresentado
 pelo interessado junto à Coordenação de Curso, acompanhado do histórico e comprovante
