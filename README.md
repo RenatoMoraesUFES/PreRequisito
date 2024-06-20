@@ -22,7 +22,7 @@ A secretaria então protocolará o pedido e encaminhará para análise do CCEPN.
 
 #### Em casos que não sejam por motivos de responsabilidade da instituição (conforme [Artigo 1º da resolução 39/2010](http://www.daocs.ufes.br/sites/daocs.ufes.br/files/field/anexo/resolucao_no_39.2010.pdf)), o Colegiado do Curso de Engenharia de Produção Noturno adotará os seguintes critérios:
 
-- O aluno deve observar o disposto na resolução 39/2010-CEPE;
+<!-- - O aluno deve observar o disposto na resolução 39/2010-CEPE;-->
 - O aluno deverá apresentar coeficiente acumulado de rendimento mínimo maior ou igual a seis vírgula zero (6,0);
 - É necessário que o aluno já tenha cursado o pré-requisito e que:
   - não tenha sido reprovado por frequência
