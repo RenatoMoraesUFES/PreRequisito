@@ -12,7 +12,7 @@ O Colegiado do Curso de Engenharia de Produção Noturno do CT tem por norma con
 
 ## Como solicitar a Quebra de Pré-Requisito
 
-O aluno deve comparecer à secretaria do Colegiado do Curso de Engenharia de Produção Noturno, apresentando documento oficial de identificação e, `para cada disciplina a ter a quebra de Pré-Requisito analisada`, preencher e entregar formulário próprio de solicitação (disponível em), acompanhado do histórico e comprovante de matrícula. Há um prazo para fazer a solicitação que está previsto no calendário acadêmico vigente. 
+O aluno deve comparecer à secretaria do Colegiado do Curso de Engenharia de Produção Noturno, apresentando documento oficial de identificação e, `para cada disciplina a ter a quebra de Pré-Requisito analisada`, preencher e entregar formulário próprio de solicitação (disponível em), acompanhado do histórico e comprovante de matrícula. Há um prazo previsto no calendário acadêmico vigente para fazer a solicitação. 
 
 A secretaria então protocolará o pedido e encaminhará para análise do Colegiado. Após isso, o Colegiado devolve os pedidos deferidos ou indeferidos em prazo que deve ser cumprido para efetivação da possível matrícula. Toda a tramitação pode ser acompanhada pelo aluno no [Lepisma](https://protocolo.ufes.br/#/busca).
 
