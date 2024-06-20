@@ -27,7 +27,7 @@ A secretaria então protocolará o pedido e encaminhará para análise do CCEPN.
 - É necessário que o aluno já tenha cursado o pré-requisito e que:
   - não tenha sido reprovado por frequência
   - Tenha obtido média maior ou igual a quatro vírgula zero (4,0)
-- É necessário que o aluno já tenha sido aprovado em toda a cadeia de pré-requisitos anteriores ao pré-requisitos com quebra solicitada
+- É necessário que o aluno já tenha sido aprovado em toda a cadeia de pré-requisitos anteriores ao pré-requisito com quebra solicitada
 
 <!-- Excetuam-se do disposto nesses critérios de quebra de pré-requisitos os casos especiais de afastamento por amparo legal; estudantes em programas de acompanhamento ou plano de estudos; o poder da lei, ou seja, o caráter de norma
 obrigatória a que todos estão sujeitos, e casos de força maior, sendo que o Colegiado de Curso analisará cada situação que se apresente. -->
