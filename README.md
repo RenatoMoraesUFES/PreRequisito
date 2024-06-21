@@ -6,9 +6,13 @@ Algumas disciplinas podem ter como pré-requisito um número qualquer de outras 
 
 A quebra de Pré-Requisito é um procedimento excepcional que está regulamentado pela Resolução [nº 39/2010 - CEPE](http://www.daocs.ufes.br/sites/daocs.ufes.br/files/field/anexo/resolucao_no_39.2010.pdf) (Art. 3º). O colegiado do curso ao qual o aluno pertence avaliará os pedidos de acordo com os critérios definidos pelo próprio colegiado. Um caso comum acontece quando o aluno já cursou a disciplina pré-requisito mas a mesma aparece com código diverso daquele do currículo do seu curso, pois o aluno se matriculou em disciplina de outro currículo e assim, por se tratar da mesma disciplina mas com código diferente, o colegiado verifica o caso, permite a quebra de pré-requisito e o aluno é orientado a solicitar o `aproveitamento de estudos` (regulamentado pela [Resolução nº 23/1997 - CEPE](http://www.daocs.ufes.br/resolu%C3%A7%C3%A3o-n%C2%BA-231997-cepe)) para comprovar a equivalência das disciplinas.
 
-O Colegiado do Curso de Engenharia de Produção Noturno do CT tem por norma conceder quebra de pré-requisitos à alunos finalistas. Lembrando que definição de finalista consta na [Resolução 58/2008 - CEPE](https://aluno.ufes.br/Documentos/resolucao_058_2008.pdf) da seguinte forma:
+O Colegiado do Curso de Engenharia de Produção Noturno do CT tem por costume dar prioridade na quebra de pré-requisitos aos alunos finalistas que atendem os critérios para a Quebra de Pré-Requisito definidos abaixo. Lembrando que definição de finalista consta na [Resolução 58/2008 - CEPE](https://aluno.ufes.br/Documentos/resolucao_058_2008.pdf) da seguinte forma:
 
-> O aluno será considerado finalista quando a diferença existente entre a carga horária mínima exigida para graduação no seu curso/habilitação e a carga horária por ele cursada for igual ou inferior à carga horária máxima de matrícula permitida por semestre letivo no seu respectivo curso.
+> O aluno será considerado finalista quando a diferença existente entre a carga horária mínima exigida para graduação no seu curso/habilitação e a carga horária por ele cursada for igual ou inferior à carga horária máxima de matrícula permitida por semestre letivo no seu respectivo curso. -->
+
+<!--O Colegiado do Curso de Engenharia de Produção Noturno do CT tem por costume conceder quebra de pré-requisitos aos alunos finalistas que atendem . Lembrando que definição de finalista consta na [Resolução 58/2008 - CEPE](https://aluno.ufes.br/Documentos/resolucao_058_2008.pdf) da seguinte forma:
+
+> O aluno será considerado finalista quando a diferença existente entre a carga horária mínima exigida para graduação no seu curso/habilitação e a carga horária por ele cursada for igual ou inferior à carga horária máxima de matrícula permitida por semestre letivo no seu respectivo curso. -->
 
 ## Como solicitar a Quebra de Pré-Requisito
 
